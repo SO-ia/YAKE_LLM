@@ -9,9 +9,9 @@ import SparkApi
 sys.path.append("spark/SparkApi.py")
 
 # 以下密钥信息从控制台获取   https://console.xfyun.cn/services/bm35
-appid = "b57c4603"  # 填写控制台中获取的 APPID 信息
-api_secret = "YzAzNDMwYzJiMDFmZjBjOWY0NDI4YjUw"  # 填写控制台中获取的 APISecret 信息
-api_key = "bb79bcff10b39c11902b85fee6cf5d8c"  # 填写控制台中获取的 APIKey 信息
+appid = "xxxxxxxxxx"  # 填写控制台中获取的 APPID 信息
+api_secret = "xxxxxxxxxx"  # 填写控制台中获取的 APISecret 信息
+api_key = "xxxxxxxxxx"  # 填写控制台中获取的 APIKey 信息
 
 domain = "generalv3.5"      # Max版本
 # domain = "4.0Ultra"  # Ultra版本
